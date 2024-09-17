@@ -1,0 +1,2 @@
+# goide
+Simple go ide
